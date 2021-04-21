@@ -2,7 +2,11 @@
 #Cambio en el archivo
 #otro coment
 #comentario en branch, comentario hecho en github
+<<<<<<< HEAD
 #hola
+=======
+#comentario 21/04/2021
+>>>>>>> newfeature
 import math
 import random
 
