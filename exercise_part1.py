@@ -2,6 +2,7 @@
 #Cambio en el archivo
 #otro coment
 #comentario en branch, comentario hecho en github
+#hola
 <<<<<<< HEAD
 #hola
 =======
